@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1612063899 source:c:\users\edgar\documents\juego de c\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1611804373 c:\users\edgar\documents\juego de c\include\player.h
+
+1611804618 source:c:\users\edgar\documents\juego de c\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1611803553 c:\users\edgar\documents\juego de c\include\mapcell.h
+
+1611804559 source:c:\users\edgar\documents\juego de c\src\mapcell.cpp
+	"MapCell.h"
+
+1612063828 source:c:\users\edgar\documents\juego de c\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
+1612062912 c:\users\edgar\documents\juego de c\include\gamemap.h
+	"MapCell.h"
+
